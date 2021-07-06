@@ -1,5 +1,5 @@
 # 👋 Hi, my name is **Vladyslav Lazaruk**.
-## I am beginner **Front-end developer** from Ukraine, but currently located in Czech Republic.
+## I am beginner **Front-end developer** from Ukraine.
 ## **Skills:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
